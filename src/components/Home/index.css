@@ -1,0 +1,10 @@
+.app-container {
+  background-image: linear-gradient(#2b2c49, #b5b9ff);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.home-container {
+  width: 430px;
+  height: 600px;
+}
